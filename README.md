@@ -12,8 +12,8 @@ Repositório para armazenar resumos do curso DIO Git e GitHub.
 
 | Aulas | Resumos | 
 |-------|---------|
-| Gravando alterações no repositório local | [Resumos] |
-
+| Aula 1 | [Resumos] |
+| Aula 2 | [Resumos] |
 ``` 
 git init
 ```
